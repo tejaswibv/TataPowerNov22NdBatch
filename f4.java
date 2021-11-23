@@ -1,1 +1,2 @@
-class f4{}
+class f4{
+string s;}
