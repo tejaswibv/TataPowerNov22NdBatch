@@ -1,0 +1,6 @@
+git add .
+git commit -m "message"
+
+git remote add origin <your github url of your newly created repo>
+git push origin master
+
