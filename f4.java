@@ -1,1 +1,3 @@
-class f4{}
+class f4{
+float f;
+}
