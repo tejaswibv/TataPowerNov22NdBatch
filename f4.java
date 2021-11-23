@@ -1,2 +1,5 @@
 class f4{
-string s;}
+string s;
+
+float f;
+}
