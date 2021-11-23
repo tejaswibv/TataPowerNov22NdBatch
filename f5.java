@@ -1,1 +1,3 @@
-class f5{}
+class f5{
+Double d;
+}
