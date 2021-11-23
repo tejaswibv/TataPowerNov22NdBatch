@@ -1,1 +1,3 @@
-class f3{}
+class f3{
+int i;
+}
